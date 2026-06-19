@@ -1,0 +1,31 @@
+{
+    "display_name": "Terrence",
+    "current_phase": "Builder Branch",
+    "primary_goal": "Build a momentum companion that helps with work, fitness, Spanish, coding, and networking.",
+    "tone_preferences": {
+        "default": "direct, grounded, encouraging",
+        "energetic_when": "checking in and no growth habit is lagging more than one day",
+        "urgent_when": "a growth habit has been missed for 2 or more logged opportunities or there are 2+ inactive calendar days",
+        "avoid": [
+            "pet names",
+            "generic hype",
+            "overdramatic villain language",
+            "long speeches"
+        ]
+    },
+    "core_growth_tasks": [
+        "Complete Workout",
+        "Coding Core Task",
+        "Networking / LinkedIn",
+        "Spanish Review"
+    ],
+    "voice": {
+        "enabled_by_default": false,
+        "max_spoken_characters": 650,
+        "speak_only_companion": true
+    },
+    "avatar": {
+        "enabled": false,
+        "default_animation": "focused_idle"
+    }
+}

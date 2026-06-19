@@ -1,0 +1,12 @@
+{
+    "created_at": "2026-06-18 09:51 PM",
+    "backup_folder": "backups\\backup_20260618_215149",
+    "copied": [
+        "momentum_history.json",
+        "today_tasks_state.json",
+        "workout_history.json",
+        "user_profile.json",
+        "companion_quotes_sample.json"
+    ],
+    "missing_or_failed": []
+}

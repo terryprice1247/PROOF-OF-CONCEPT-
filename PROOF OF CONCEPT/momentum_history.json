@@ -1,0 +1,588 @@
+{
+    "2026-05-14": {
+        "date": "2026-05-14",
+        "saved_at": "2026-05-14 09:13 PM",
+        "location": "Work",
+        "energy": "Normal",
+        "completed": 0,
+        "total": 3,
+        "finished_all": false,
+        "missed_tasks": [
+            "Networking / LinkedIn",
+            "Spanish Review",
+            "New task"
+        ],
+        "tasks": [
+            {
+                "text": "Networking / LinkedIn",
+                "done": false
+            },
+            {
+                "text": "Spanish Review",
+                "done": false
+            },
+            {
+                "text": "New task",
+                "done": false
+            }
+        ],
+        "overall_streak": 0,
+        "energy_note": "Energy note: History is building. The bot will get smarter as you log more sessions."
+    },
+    "2026-05-17": {
+        "date": "2026-05-17",
+        "saved_at": "2026-05-17 11:43 PM",
+        "location": "Work",
+        "energy": "Normal",
+        "completed": 0,
+        "total": 4,
+        "finished_all": false,
+        "missed_tasks": [
+            "Check Tickets",
+            "Complete Workout",
+            "Networking / LinkedIn",
+            "Update documentation"
+        ],
+        "tasks": [
+            {
+                "text": "Check Tickets",
+                "done": false
+            },
+            {
+                "text": "Complete Workout",
+                "done": false
+            },
+            {
+                "text": "Networking / LinkedIn",
+                "done": false
+            },
+            {
+                "text": "Update documentation",
+                "done": false
+            }
+        ],
+        "overall_streak": 0,
+        "energy_note": "Energy note: History is building. The bot will get smarter as you log more sessions."
+    },
+    "2026-05-19": {
+        "date": "2026-05-19",
+        "saved_at": "2026-05-19 10:01 PM",
+        "location": "Work",
+        "energy": "Normal",
+        "completed": 4,
+        "total": 5,
+        "finished_all": false,
+        "missed_tasks": [
+            "Coding Core Task"
+        ],
+        "bonus_completed": 0,
+        "bonus_total": 2,
+        "tasks": [
+            {
+                "text": "Check Tickets",
+                "done": true,
+                "core": true,
+                "task_type": "link"
+            },
+            {
+                "text": "Complete Workout",
+                "done": true,
+                "core": true,
+                "task_type": "workout"
+            },
+            {
+                "text": "Networking / LinkedIn",
+                "done": true,
+                "core": true,
+                "task_type": "link"
+            },
+            {
+                "text": "Spanish Review",
+                "done": true,
+                "core": true,
+                "task_type": "study"
+            },
+            {
+                "text": "Complete Workout",
+                "done": false,
+                "core": false,
+                "task_type": "workout"
+            },
+            {
+                "text": "Spanish Review",
+                "done": false,
+                "core": false,
+                "task_type": "study"
+            },
+            {
+                "text": "Coding Core Task",
+                "done": false,
+                "core": true,
+                "task_type": "manual"
+            }
+        ],
+        "overall_streak": 0,
+        "energy_note": "Energy note: 3 normal-energy days logged in the last 7 days. Good window to build consistency."
+    },
+    "2026-05-20": {
+        "date": "2026-05-20",
+        "saved_at": "2026-05-21 10:33 PM",
+        "location": "Work",
+        "energy": "Normal",
+        "completed": 5,
+        "total": 5,
+        "finished_all": true,
+        "missed_tasks": [],
+        "bonus_completed": 1,
+        "bonus_total": 1,
+        "tasks": [
+            {
+                "text": "Complete Workout",
+                "done": true,
+                "core": true,
+                "task_type": "workout"
+            },
+            {
+                "text": "Check Tickets",
+                "done": true,
+                "core": true,
+                "task_type": "link"
+            },
+            {
+                "text": "Coding Core Task",
+                "done": true,
+                "core": true,
+                "task_type": "manual"
+            },
+            {
+                "text": "Networking / LinkedIn",
+                "done": true,
+                "core": true,
+                "task_type": "link"
+            },
+            {
+                "text": "Spanish Review",
+                "done": true,
+                "core": true,
+                "task_type": "study"
+            },
+            {
+                "text": "Complete Workout",
+                "done": true,
+                "core": false,
+                "task_type": "workout"
+            }
+        ],
+        "overall_streak": 1,
+        "energy_note": "Energy note: 4 normal-energy days logged in the last 7 days. Good window to build consistency."
+    },
+    "2026-05-21": {
+        "date": "2026-05-21",
+        "saved_at": "2026-05-28 08:04 PM",
+        "location": "Work",
+        "energy": "Normal",
+        "completed": 3,
+        "total": 5,
+        "finished_all": false,
+        "missed_tasks": [
+            "Networking / LinkedIn",
+            "Spanish Review"
+        ],
+        "bonus_completed": 0,
+        "bonus_total": 0,
+        "tasks": [
+            {
+                "text": "Check Tickets",
+                "done": true,
+                "core": true,
+                "task_type": "link",
+                "difficulty": "Easy",
+                "xp": 20
+            },
+            {
+                "text": "Complete Workout",
+                "done": true,
+                "core": true,
+                "task_type": "workout",
+                "difficulty": "Hard",
+                "xp": 60
+            },
+            {
+                "text": "Coding Core Task",
+                "done": true,
+                "core": true,
+                "task_type": "manual",
+                "difficulty": "Hard",
+                "xp": 60
+            },
+            {
+                "text": "Networking / LinkedIn",
+                "done": false,
+                "core": true,
+                "task_type": "link",
+                "difficulty": "Medium",
+                "xp": 0
+            },
+            {
+                "text": "Spanish Review",
+                "done": false,
+                "core": true,
+                "task_type": "study",
+                "difficulty": "Medium",
+                "xp": 0
+            }
+        ],
+        "xp_earned": 140,
+        "overall_streak": 0,
+        "energy_note": "Energy note: 4 normal-energy days logged in the last 7 days. Good window to build consistency."
+    },
+    "2026-05-28": {
+        "date": "2026-05-28",
+        "saved_at": "2026-05-28 08:05 PM",
+        "location": "Work",
+        "energy": "Normal",
+        "completed": 3,
+        "total": 5,
+        "finished_all": false,
+        "missed_tasks": [
+            "Coding Core Task",
+            "Networking / LinkedIn"
+        ],
+        "bonus_completed": 0,
+        "bonus_total": 0,
+        "tasks": [
+            {
+                "text": "Check Tickets",
+                "done": true,
+                "core": true,
+                "task_type": "link",
+                "difficulty": "Medium",
+                "xp": 35
+            },
+            {
+                "text": "Complete Workout",
+                "done": true,
+                "core": true,
+                "task_type": "workout",
+                "difficulty": "Hard",
+                "xp": 60
+            },
+            {
+                "text": "Spanish Review",
+                "done": true,
+                "core": true,
+                "task_type": "study",
+                "difficulty": "Medium",
+                "xp": 35
+            },
+            {
+                "text": "Coding Core Task",
+                "done": false,
+                "core": true,
+                "task_type": "manual",
+                "difficulty": "Hard",
+                "xp": 0
+            },
+            {
+                "text": "Networking / LinkedIn",
+                "done": false,
+                "core": true,
+                "task_type": "link",
+                "difficulty": "Medium",
+                "xp": 0
+            }
+        ],
+        "xp_earned": 130,
+        "overall_streak": 0,
+        "energy_note": "Energy note: History is building. The bot will get smarter as you log more sessions."
+    },
+    "2026-06-11": {
+        "date": "2026-06-11",
+        "saved_at": "2026-06-11 08:31 PM",
+        "location": "Work",
+        "energy": "Normal",
+        "completed": 3,
+        "total": 5,
+        "finished_all": false,
+        "missed_tasks": [
+            "Complete Workout",
+            "Networking / LinkedIn"
+        ],
+        "bonus_completed": 0,
+        "bonus_total": 0,
+        "tasks": [
+            {
+                "text": "Coding Core Task",
+                "display": "Coding",
+                "done": true,
+                "core": true,
+                "task_type": "manual",
+                "difficulty": "Hard",
+                "xp": 60
+            },
+            {
+                "text": "Spanish Review",
+                "display": "Spanish",
+                "done": true,
+                "core": true,
+                "task_type": "study",
+                "difficulty": "Medium",
+                "xp": 35
+            },
+            {
+                "text": "Complete Workout",
+                "display": "Exercise",
+                "done": false,
+                "core": true,
+                "task_type": "workout",
+                "difficulty": "Hard",
+                "xp": 0
+            },
+            {
+                "text": "Networking / LinkedIn",
+                "display": "Networking",
+                "done": false,
+                "core": true,
+                "task_type": "link",
+                "difficulty": "Medium",
+                "xp": 0
+            },
+            {
+                "text": "Reading",
+                "display": "Reading",
+                "done": true,
+                "core": true,
+                "task_type": "manual",
+                "difficulty": "Easy",
+                "xp": 20
+            }
+        ],
+        "xp_earned": 115,
+        "overall_streak": 0,
+        "energy_note": "Daily task progress saved from Builder Branch v5."
+    },
+    "2026-06-13": {
+        "date": "2026-06-13",
+        "saved_at": "2026-06-13 08:53 PM",
+        "location": "Work",
+        "energy": "Normal",
+        "completed": 4,
+        "total": 5,
+        "finished_all": false,
+        "missed_tasks": [
+            "Reading"
+        ],
+        "bonus_completed": 0,
+        "bonus_total": 0,
+        "tasks": [
+            {
+                "text": "Coding Core Task",
+                "display": "Coding",
+                "done": true,
+                "duration_minutes": 30,
+                "duration_label": "30m+",
+                "core": true,
+                "task_type": "manual",
+                "difficulty": "Hard",
+                "xp": 60
+            },
+            {
+                "text": "Spanish Review",
+                "display": "Spanish",
+                "done": true,
+                "duration_minutes": 10,
+                "duration_label": "10m",
+                "core": true,
+                "task_type": "study",
+                "difficulty": "Medium",
+                "xp": 15
+            },
+            {
+                "text": "Complete Workout",
+                "display": "Exercise",
+                "done": true,
+                "duration_minutes": 10,
+                "duration_label": "10m",
+                "core": true,
+                "task_type": "workout",
+                "difficulty": "Hard",
+                "xp": 20
+            },
+            {
+                "text": "Networking / LinkedIn",
+                "display": "Networking",
+                "done": true,
+                "duration_minutes": 20,
+                "duration_label": "20m",
+                "core": true,
+                "task_type": "link",
+                "difficulty": "Medium",
+                "xp": 35
+            },
+            {
+                "text": "Reading",
+                "display": "Reading",
+                "done": false,
+                "duration_minutes": 0,
+                "duration_label": "",
+                "core": true,
+                "task_type": "manual",
+                "difficulty": "Easy",
+                "xp": 0
+            }
+        ],
+        "xp_earned": 130,
+        "xp_possible": 245,
+        "day_closed": true,
+        "overall_streak": 0,
+        "energy_note": "Daily task progress saved from Builder Branch v11 EXP duration buttons."
+    },
+    "2026-06-16": {
+        "date": "2026-06-16",
+        "saved_at": "2026-06-16 09:59 PM",
+        "location": "Work",
+        "energy": "Normal",
+        "completed": 5,
+        "total": 5,
+        "finished_all": true,
+        "missed_tasks": [],
+        "bonus_completed": 0,
+        "bonus_total": 0,
+        "tasks": [
+            {
+                "text": "Coding Core Task",
+                "display": "Coding",
+                "done": true,
+                "duration_minutes": 40,
+                "duration_label": "40m+",
+                "core": true,
+                "task_type": "manual",
+                "difficulty": "Hard",
+                "xp": 80
+            },
+            {
+                "text": "Spanish Review",
+                "display": "Spanish",
+                "done": true,
+                "duration_minutes": 20,
+                "duration_label": "20m",
+                "core": true,
+                "task_type": "study",
+                "difficulty": "Medium",
+                "xp": 30
+            },
+            {
+                "text": "Complete Workout",
+                "display": "Exercise",
+                "done": true,
+                "duration_minutes": 30,
+                "duration_label": "30m+",
+                "core": true,
+                "task_type": "workout",
+                "difficulty": "Hard",
+                "xp": 60
+            },
+            {
+                "text": "Networking / LinkedIn",
+                "display": "Networking",
+                "done": true,
+                "duration_minutes": 30,
+                "duration_label": "30m+",
+                "core": true,
+                "task_type": "link",
+                "difficulty": "Medium",
+                "xp": 50
+            },
+            {
+                "text": "Reading",
+                "display": "Reading",
+                "done": true,
+                "duration_minutes": 20,
+                "duration_label": "20m",
+                "core": true,
+                "task_type": "manual",
+                "difficulty": "Easy",
+                "xp": 20
+            }
+        ],
+        "xp_earned": 240,
+        "xp_possible": 300,
+        "day_closed": true,
+        "overall_streak": 0,
+        "energy_note": "Daily task progress saved from Builder Branch v17 Bonus Round EXP duration buttons."
+    },
+    "2026-06-18": {
+        "date": "2026-06-18",
+        "saved_at": "2026-06-19 12:39 AM",
+        "location": "Work",
+        "energy": "Normal",
+        "completed": 5,
+        "total": 5,
+        "finished_all": true,
+        "missed_tasks": [],
+        "bonus_completed": 0,
+        "bonus_total": 0,
+        "tasks": [
+            {
+                "text": "Coding Core Task",
+                "display": "Coding",
+                "done": true,
+                "duration_minutes": 20,
+                "duration_label": "20m",
+                "core": true,
+                "task_type": "manual",
+                "difficulty": "Hard",
+                "xp": 40
+            },
+            {
+                "text": "Spanish Review",
+                "display": "Spanish",
+                "done": true,
+                "duration_minutes": 20,
+                "duration_label": "20m",
+                "core": true,
+                "task_type": "study",
+                "difficulty": "Medium",
+                "xp": 30
+            },
+            {
+                "text": "Complete Workout",
+                "display": "Exercise",
+                "done": true,
+                "duration_minutes": 40,
+                "duration_label": "40m+",
+                "core": true,
+                "task_type": "workout",
+                "difficulty": "Hard",
+                "xp": 80
+            },
+            {
+                "text": "Networking / LinkedIn",
+                "display": "Networking",
+                "done": true,
+                "duration_minutes": 20,
+                "duration_label": "20m",
+                "core": true,
+                "task_type": "link",
+                "difficulty": "Medium",
+                "xp": 35
+            },
+            {
+                "text": "Reading",
+                "display": "Reading",
+                "done": true,
+                "duration_minutes": 10,
+                "duration_label": "10m",
+                "core": true,
+                "task_type": "manual",
+                "difficulty": "Easy",
+                "xp": 10
+            }
+        ],
+        "xp_earned": 195,
+        "xp_possible": 300,
+        "day_closed": true,
+        "overall_streak": 0,
+        "energy_note": "Daily task progress saved from Builder Branch v17 Bonus Round EXP duration buttons."
+    }
+}

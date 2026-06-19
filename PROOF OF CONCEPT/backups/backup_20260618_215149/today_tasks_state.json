@@ -1,0 +1,21 @@
+{
+    "date": "2026-06-18",
+    "updated_at": "2026-06-18 09:38 PM",
+    "tasks": {
+        "Coding Core Task": true,
+        "Spanish Review": true,
+        "Complete Workout": true,
+        "Networking / LinkedIn": false,
+        "Reading": true
+    },
+    "durations": {
+        "Coding Core Task": 20,
+        "Spanish Review": 20,
+        "Complete Workout": 40,
+        "Networking / LinkedIn": 0,
+        "Reading": 10
+    },
+    "location": "Work",
+    "energy": "Normal",
+    "day_closed": false
+}

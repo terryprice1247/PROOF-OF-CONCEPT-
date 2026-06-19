@@ -1,0 +1,67 @@
+{
+    "max_reps": {
+        "Pull ups": 11,
+        "Dips": 8,
+        "Chin ups": 12
+    },
+    "sessions": [
+        {
+            "date": "2026-06-16",
+            "saved_at": "2026-06-16 09:14 PM",
+            "focus_area": "Exercise",
+            "energy": "Normal",
+            "rows": []
+        },
+        {
+            "date": "2026-06-18",
+            "saved_at": "2026-06-18 09:36 PM",
+            "focus_area": "Exercise",
+            "energy": "Normal",
+            "rows": [
+                {
+                    "muscle": "Biceps",
+                    "exercise": "Chin ups",
+                    "sets": [
+                        10,
+                        7,
+                        0
+                    ],
+                    "session_best": 10,
+                    "max_reps": 12
+                },
+                {
+                    "muscle": "Shoulders",
+                    "exercise": "Pull ups",
+                    "sets": [
+                        11,
+                        10,
+                        9
+                    ],
+                    "session_best": 11,
+                    "max_reps": 11
+                }
+            ]
+        },
+        {
+            "date": "2026-06-18",
+            "session_label": "Work",
+            "session_id": "2026-06-18_work",
+            "saved_at": "2026-06-18 09:54 PM",
+            "focus_area": "Exercise",
+            "energy": "Normal",
+            "rows": [
+                {
+                    "muscle": "Biceps",
+                    "exercise": "Chin ups",
+                    "sets": [
+                        10,
+                        0,
+                        0
+                    ],
+                    "session_best": 10,
+                    "max_reps": 12
+                }
+            ]
+        }
+    ]
+}
